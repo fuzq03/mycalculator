@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    //按下的状态
+    <item   android:drawable="@drawable/equal_press"  android:state_pressed="true">
+    </item>
+
+    //没按的状态
+    <item   android:drawable="@drawable/equal_normal" android:state_pressed="false">
+    </item>
+
+
+
+</selector>
